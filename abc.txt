@@ -1,1 +1,5 @@
 abc is the 1st file in my git repository.
+
+Now I have added something after committing the file 1st.
+
+I added the file and now again chaning it.
